@@ -1,0 +1,19 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost/vehicledatabase
+  application:
+    name: vh
+
+
+server:
+  port: 8082
+
+
+app:
+  name: Vehicle Management Systems
+  version: 1.0.0
+  description: API for managing vehicle services V1
+  maintainer:
+    name: SST class B brilliant students
+    email: support@sst.com
